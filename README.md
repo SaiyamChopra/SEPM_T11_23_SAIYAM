@@ -1,17 +1,12 @@
 SEPM Lab Submission
-
 Subject: Software Engineering & Project Management (SEPM)
-
 Semester: VI
 
 Student:
 
 Name: Saiyam Chopra
-
 Roll No: 2301023
-
 Branch: AI&DS
-
 Academic Year: 2025–26
 
 Content Details
@@ -25,4 +20,4 @@ Content Details
 7. To create Scrum Board for Scrum Master using JIRA Tool
 8. To study Project Scheduling using Gantt Chart in ClickUp
 9. To understand Docker Architecture and Container Life Cycle, install Docker and execute Docker commands to manage images and interact with containers
-10.To learn Dockerfile instructions, build an image for a sample web application using Dockerfile
+10. To learn Dockerfile instructions, build an image for a sample web application using Dockerfile
