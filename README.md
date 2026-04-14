@@ -1,14 +1,21 @@
 SEPM Lab Submission
+
 Subject: Software Engineering & Project Management (SEPM)
+
 Semester: VI
 
 Student:
+
 Name: Saiyam Chopra
+
 Roll No: 2301023
+
 Branch: AI&DS
+
 Academic Year: 2025–26
 
 Content Details
+
 1. To understand DevOps: Principles, Practices, and DevOps Engineer Role and Responsibilities
 2. To understand Version Control System / Source Code Management, install Git and create a GitHub account
 3. To perform various GIT operations on local and remote repositories using GIT Cheat-Sheet
